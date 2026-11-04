@@ -367,3 +367,7 @@ Las reglas:
 - Un método hace una sola cosa y la hace bien.
 
 ¡Suerte! Y recuerden: la habitación siempre tiene salida… si la programan. 🎮
+
+## Presentación
+
+aquí presentación [Ver presentación](./Presentacion_Escape_La_Habitacion.pptx)
