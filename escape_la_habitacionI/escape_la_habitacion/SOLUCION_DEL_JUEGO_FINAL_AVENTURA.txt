@@ -1,0 +1,92 @@
+SOLUCIÓN DEL JUEGO: ESCAPE — LA HABITACIÓN
+==========================================
+
+Para jugar las tres habitaciones seguidas, selecciona el modo HISTORIA.
+Cuando te acerques a un objeto, elige 1 para interactuar.
+
+HABITACIÓN 1 — EL CUARTO
+-----------------------
+1. Busca la ALFOMBRA (parte inferior izquierda).
+   Interactúa con ella y recoge la LLAVE OXIDADA.
+
+2. Ve al COFRE (lado derecho de la habitación).
+   Se abrirá con la llave oxidada. Anota el NÚMERO que aparece.
+
+3. Ve a la NOTA (parte superior izquierda).
+   Léela para saber qué operación debes hacer con el número del cofre.
+
+4. Calcula la clave según indique la nota:
+   - DOBLE: multiplica el número por 2.
+   - MITAD: divide el número entre 2.
+   - MÁS 10: suma 10.
+   - MENOS 10: resta 10.
+   - AL REVÉS: invierte los dos dígitos.
+
+5. Ve a la PUERTA (pared inferior) y escribe el resultado.
+   Así pasarás a la siguiente habitación.
+
+IMPORTANTE: el número del cofre y la operación cambian entre partidas.
+No existe una clave fija.
+
+
+HABITACIÓN 2 — LA CASA
+---------------------
+1. Ve al SOFÁ (parte inferior derecha) y recoge las PILAS.
+
+2. Ve a la MESA (zona central derecha) y recoge la LINTERNA.
+   Necesitas la linterna y las pilas para bajar al sótano.
+
+3. Ve a la COCINA (parte superior derecha) y lee el papel
+   de la nevera. Allí aparece el orden de la clave:
+      Primero: la hora del reloj.
+      Segundo: la página del libro.
+      Tercero: el número de la suerte del abrigo.
+
+4. Ve al RELOJ (parte superior izquierda).
+   Anota el número mostrado: es el PRIMER DÍGITO.
+
+5. Ve al LIBRERO (parte superior izquierda).
+   Anota el número de página: es el SEGUNDO DÍGITO.
+
+6. Ve a la CAMA (parte inferior izquierda).
+   Mira debajo del colchón y recoge la LLAVE PEQUEÑA.
+
+7. Ve al GUARDARROPA (parte inferior izquierda).
+   Ábrelo con la llave pequeña. Anota el número de la suerte
+   del abrigo: es el TERCER DÍGITO.
+
+8. Une los tres dígitos SIN SUMARLOS:
+      RELOJ + LIBRO + ABRIGO
+   Por ejemplo, si aparecen 4, 7 y 2, la clave es 472.
+   (472 es solo un ejemplo; la clave real cambia en cada partida).
+
+9. Ve a la TRAMPILLA (parte inferior derecha).
+   Escribe la clave de tres dígitos para bajar al sótano.
+   Si no te deja bajar, comprueba que tengas PILAS y LINTERNA.
+
+
+HABITACIÓN 3 — EL SÓTANO
+------------------------
+1. Ve al BAÚL (parte inferior derecha).
+   Ábrelo con la LLAVE OXIDADA que recogiste en la habitación 1.
+   En su interior conseguirás una PALANCA.
+
+2. Ve a la CAJA DE MADERA (centro de la habitación).
+   Interactúa para moverla debajo de la ventana alta.
+
+3. Ve a la VENTANA ALTA (parte superior derecha).
+   Como la caja ya está en su lugar, podrás alcanzarla.
+   Usa la palanca para forzar la ventana.
+
+4. Sal por la ventana. ¡GANASTE EL JUEGO!
+
+NOTA: si empiezas directamente en la habitación 3 con el modo
+HABITACIÓN ÚNICA, el juego te proporciona la llave oxidada.
+
+
+RESUMEN RÁPIDO
+--------------
+Habitación 1: ALFOMBRA -> COFRE -> NOTA -> PUERTA.
+Habitación 2: SOFÁ -> MESA -> COCINA -> RELOJ -> LIBRERO ->
+              CAMA -> GUARDARROPA -> TRAMPILLA.
+Habitación 3: BAÚL -> CAJA -> VENTANA.
